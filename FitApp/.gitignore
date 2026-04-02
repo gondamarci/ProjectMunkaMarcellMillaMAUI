@@ -1,0 +1,15 @@
+# Build eredmények
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+
+# Visual Studio ideiglenes fájlok
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# MAUI specifikus
+.vsmac/
